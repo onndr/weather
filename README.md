@@ -1,3 +1,5 @@
 # weather
-small react page showing weather
-https://onndr.github.io/weather/
+Personal project
+Playing with ReactJS
+
+Webpage: https://onndr.github.io/weather/
